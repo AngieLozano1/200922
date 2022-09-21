@@ -1,0 +1,63 @@
+{
+    "name":"seleccion_de_futbol_de_dinamarca",
+    "country_name": "dinamarca",
+    "alternative_names":["danmarks_fodboldlandshold","la_dinamita_roja","la_pandilla_olsen_el_tomate_mecanico"], 
+    "won_titles": ["Balon_bronce_1986"],
+    "captain_name": "simon_kjaer",
+    "coach_name": "kasper_hjulmand",
+    "logo":"http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1899.png",
+    "abbreviation": "sfd",
+    "top_scorer":[
+        {
+        "pname":"JonDahlTomasson",
+        "goals":52
+        },
+        {
+        "pname":"PoulNielsen",
+        "goals":52 
+        }
+    ],
+    "stadium":[
+        {
+        "sname":"ParkenStadium",
+        "location":"Copenhague",
+        "capacity":42305
+        }
+        ],
+    "players":[
+        {
+            "playername":"Kasper",
+            "plastname":"Schmeichel",
+            "age": 35,
+            "height":175,
+            "place_of_birth": "Leicester_City",
+            "position":"portero",
+            "current_club":"",
+            "shirt_number":1
+
+        },
+        {
+            "playername":"Joachim",
+            "plastname":"Andersen",
+            "age": ,
+            "height":,
+            "place_of_birth": "",
+            "position":"",
+            "current_club":"",
+            "shirt_number":
+
+        },
+        {
+            "playername":"",
+            "plastname":"",
+            "age": ,
+            "height":,
+            "place_of_birth": "",
+            "position":"",
+            "current_club":"",
+            "shirt_number":
+
+        }
+    ]
+
+}
